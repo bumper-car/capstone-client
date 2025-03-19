@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    font-family: "Inter", sans-serif;
+    border-bottom: 1px solid #ddd; /* ✅ 회색 구분선 추가 */
+  }
+  
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+  }
+  
+  nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+  }
+  
